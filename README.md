@@ -1,11 +1,15 @@
 # Pima-KNN-NaiveBayes
 
-MyProgram.java executes by passing in the file to execute on as a command line argument.
-Distances.java store the k-nearest neighbors.
-Instances.java store the instances of the data data in a hashmap.
+**_MyProgram.java_** executes by passing in the file to execute on as a command line argument.
 
-pima.csv       contains all the data values.
-pima-CFS.csv   contains the correlation-based feature selections using Weka.
-pima-folds.csv lists the folds used in cross-fold validation.
+**_Distances.java_** store the k-nearest neighbors.
 
-report.pdf explains the data, methods, and results of the KNN and Naive Bayes implementation as well as other requirements for the assignment.
+**_Instances.java_** store the instances of the data data in a hashmap.
+
+**_pima.csv_**       contains all the data values.
+
+**_pima-CFS.csv_**   contains the correlation-based feature selections using Weka.
+
+**_pima-folds.csv_** lists the folds used in cross-fold validation.
+
+**_report.pdf_** explains the data, methods, and results of the KNN and Naive Bayes implementation as well as other requirements for the assignment.
